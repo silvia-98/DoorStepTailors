@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236411104399",
+    "firebase_url": "https://doorsteptailors-54b32.firebaseio.com",
+    "project_id": "doorsteptailors-54b32",
+    "storage_bucket": "doorsteptailors-54b32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236411104399:android:902f74555fa1755e7e54fa",
+        "android_client_info": {
+          "package_name": "com.example.doorsteptailors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236411104399-dj9jpf3crjh6uda76phft7lbe5b71mgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doorsteptailors",
+            "certificate_hash": "295000e5e38936d5ceae93fc9e48128d04301166"
+          }
+        },
+        {
+          "client_id": "236411104399-ctpiutsdodi16uvl0qttt6j1b2i8e9k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATj8b4fOXyyI8NyzwNgDtao9fTc6QlOFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236411104399-ctpiutsdodi16uvl0qttt6j1b2i8e9k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
